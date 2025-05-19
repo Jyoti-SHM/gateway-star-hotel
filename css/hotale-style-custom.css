@@ -108,12 +108,12 @@ body.hotale-boxed .hotale-body-wrapper{ margin-top: 0px; margin-bottom: 0px; }
 .hotale-page-title-wrap .hotale-page-title-top-gradient{ height: 413px; } 
 .hotale-page-title-wrap .hotale-page-title-bottom-gradient{ height: 413px; } 
 .hotale-page-title-wrap .hotale-page-title-overlay{ opacity: 0; } 
-.hotale-page-title-wrap{ background-image: url(https://demo.goodlayers.com/hotale/resort/wp-content/uploads/sites/2/2022/01/resort-title-bg.jpg); }body.single-product .hotale-header-background-transparent{ background-image: url(https://demo.goodlayers.com/hotale/resort/wp-content/uploads/sites/2/2022/01/resort-title-bg.jpg); background-position: center; background-size: cover; } 
+.hotale-page-title-wrap{ background-image: url(../imgs/breadcrumbs.webp); }body.single-product .hotale-header-background-transparent{ background-image: url(../imgs/DeluxeTwinroom/IMG_2988_1_11zon.webp); background-position: center; background-size: cover; } 
 .hotale-page-title-wrap, body.single-product .hotale-header-background-transparent{ border-radius: 20px; -moz-border-radius: 20px; -webkit-border-radius: 20px; } 
 .hotale-not-found-wrap .hotale-not-found-background{ opacity: 0.3; } 
 .hotale-blog-title-wrap.hotale-style-custom .hotale-blog-title-content{ padding-top: 111px; } 
 .hotale-blog-title-wrap.hotale-style-custom .hotale-blog-title-content{ padding-bottom: 130px; } 
-.hotale-blog-title-wrap{ background-image: url(https://demo.goodlayers.com/hotale/resort/wp-content/uploads/sites/2/2021/12/bg-title-1.jpg); } 
+.hotale-blog-title-wrap{ background-image: url(../imgs/breadcrumbs.webp); } 
 .hotale-blog-title-wrap .hotale-single-article-title, .hotale-single-article .hotale-single-article-title{ font-size: 52px; } 
 .hotale-blog-title-wrap .hotale-single-article-title, .hotale-single-article .hotale-single-article-title{ font-weight: 400; } 
 .hotale-blog-title-wrap.hotale-feature-image .hotale-blog-title-top-overlay{ height: 413px; } 
